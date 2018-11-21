@@ -13,7 +13,7 @@ var sostituzione = "<strong>" + "xxx" +"</strong>";
 
 var censura = testo_latino();
 
-// controllo se sono presenti le parole censurate nel testo
+// controllo se sono presenti le parole censurate nel testo iniziale
 while (i < parole_censurate.length){
   console.log(parole_censurate[i]);
   //se la parola è presente
