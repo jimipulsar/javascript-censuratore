@@ -32,5 +32,5 @@ document.writeln("<h2>Il testo con la censura applicata diventa:<br></h2>")
 document.write(sostituzione);
 
 
-//Stampo il risultato con il relativo punteggio
+//Stampo il risultato con il relativo punteggio //
 document.writeln("<h2>Sono state inserite " + contatore + " parole censurate su " + parole_censurate.length + " parole totali.</h2>");
